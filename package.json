@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/faratim/crwn-clothing.git",
+  "author": "faratim <104940465+faratim@users.noreply.github.com>",
+  "license": "MIT"
 }
